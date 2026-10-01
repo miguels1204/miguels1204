@@ -9,7 +9,7 @@ Cloud / Platform engineer based in Madrid, Spain. Four years working with AWS at
 - **Infrastructure as code:** Terraform, Terragrunt, Packer
 - **Code:** Python (boto3), Bash, Git
 - **Observability:** Splunk, SignalFx
-- **CI/CD:** Bamboo, Bitbucket
+- **CI/CD:** Bamboo, Bitbucket, GitHub Actions
 
 ## What I'm building now
 
